@@ -4,18 +4,18 @@ I am a second-year B.Tech Information and Communication Technology (ICT) student
 
 ## 🛠️ Technical Arsenal
 
-*   **Languages:** Python, JavaScript, HTML/CSS, Verilog, Assembly (8051)
+*   **Languages:** Python, JavaScript, HTML/CSS
 *   **Machine Learning & Data Science:** TensorFlow, Keras, Scikit-Learn, XGBoost, CNNs, Linear Regression
-*   **Web Development:** Flask, RESTful APIs
+*   **Web Development:** Next.js, Flask, TailwindCSS, RESTful APIs
 *   **Tools & Platforms:** Git, GitHub, Render, FastF1 API
 
 ## 🚀 Featured Projects
 
 Here are some of the key projects I have been working on:
 
-### [Gear Guard (odoo-hackathon)](https://github.com/hitarthpatel2404/odoo-hackathon)
-An industrial maintenance MVP built during the Odoo x Adani University Hackathon. I served as the Team Lead and Full-Stack Developer to bring this project to life.
-*   **Tech Stack:** JavaScript, Full-Stack integration
+### [DataBots-AI](https://github.com/hitarthpatel2404/Databots-ai)
+A serverless Python Analytics Engine paired with a highly interactive Next.js tracking interface. It instantly turns raw CSV data pipelines into actionable intelligence reports using automated machine learning profiling. The application uses a unified architecture where a Flask API server directly hosts the statically compiled Next.js frontend, minimizing latency and avoiding CORS complexity.
+*   **Tech Stack:** Next.js, TailwindCSS, Framer Motion, Flask, Pandas, Sweetviz
 
 ### [F1 World Drivers' Champion Predictor](https://github.com/hitarthpatel2404/F1-predictor)
 A machine learning web application that leverages the FastF1 API to predict race results and seasonal standings. Successfully deployed on Render.
@@ -30,8 +30,7 @@ A web platform designed to help developers easily find teammates and form cross-
 *   **Tech Stack:** Python
 
 ## 🧠 Currently Exploring
-*   Training deep learning models, specifically utilizing CNNs for image classification (recently completed a musical instrument classification project).
-*   Low-level embedded systems, digital logic, and microprocessor architectures. 
+*   Machine learning techniques, with a specific focus on exploring ridge and logistic regression models.
 
 ## 🤝 Let's Connect!
 *   Always open to collaborating on open-source projects, especially those involving full-stack ML deployments or predictive modeling.
