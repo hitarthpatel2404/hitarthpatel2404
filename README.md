@@ -6,7 +6,6 @@ I am a second-year B.Tech Information and Communication Technology (ICT) student
 
 *   **Languages:** Python, JavaScript, HTML/CSS
 *   **Machine Learning & Data Science:** TensorFlow, Keras, Scikit-Learn, XGBoost, CNNs, Linear Regression
-*   **Web Development:** Next.js, Flask, TailwindCSS, RESTful APIs
 *   **Tools & Platforms:** Git, GitHub, Render, FastF1 API
 
 ## 🚀 Featured Projects
